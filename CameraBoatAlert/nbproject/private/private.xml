@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/projects/python/CameraBoatAlert/src/camera/CameraThread.py</file>
-            <file>file:/E:/projects/python/CameraBoatAlert/src/utils/visualization_utils.py</file>
-            <file>file:/E:/projects/python/CameraBoatAlert/src/cameraboatalert.py</file>
+            <file>file:/E:/projects/python/cbalert/CameraBoatAlert/src/setregion.py</file>
+            <file>file:/E:/projects/python/cbalert/CameraBoatAlert/src/camera/CameraThread.py</file>
+            <file>file:/E:/projects/python/cbalert/CameraBoatAlert/src/cameraboatalert.py</file>
+            <file>file:/E:/projects/python/cbalert/CameraBoatAlert/src/utils/visualization_utils.py</file>
         </group>
     </open-files>
 </project-private>
